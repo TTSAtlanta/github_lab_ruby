@@ -3,4 +3,6 @@ def print_hello(name)
 	puts "Hello #{name}"
 end
 
-print_hello("Joe")
+print_hello("Fred")
+
+#some more changes
