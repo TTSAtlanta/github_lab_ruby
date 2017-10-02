@@ -6,3 +6,9 @@ end
 print_hello("Fred")
 
 #some more changes
+
+git add .
+
+git commit -m "Your message here"
+
+git push
