@@ -1,1 +1,5 @@
-#enter some ruby code
+def hello
+  puts "Hello"
+end
+
+puts hello
